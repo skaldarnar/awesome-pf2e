@@ -9,3 +9,9 @@
   - Web App, Android App 
 - [Wanderer's Guide](https://wanderersguide.app/) - A semi-automated character manager for Pathfinder Second Edition.
   - Open Source - GPL-3.0 License - :octocat: [wanderers-guide/wanderers-guide](https://github.com/wanderers-guide/wanderers-guide)
+
+Many more open source and community projects on Github:
+
+- topic [pathfinder2e](https://github.com/topics/pathfinder2e)
+- topic [pathfinder-2e](https://github.com/topics/pathfinder-2e)
+- topic [pf2e](https://github.com/topics/pf2e)
