@@ -13,6 +13,7 @@
   - Open Source - GPL-3.0 License - :octocat: [wanderers-guide/wanderers-guide](https://github.com/wanderers-guide/wanderers-guide)
 - [Pathfinder 2 easy Library](https://pf2easy.com/) - Explore and search the ruleset, utility sheets, and various tools.
 - [RPGBot](https://rpgbot.net/p2/) - A resource for tabletop roleplaying games, including instructional articles, online tools, and a Podcast to help you be a better player.
+- [Eurolog PF2 Tools](https://eurolog.shroomware.com/) - Excel spreadsheet-based tools
 
 Many more open source and community projects on Github:
 
