@@ -1,6 +1,7 @@
 # awesome-pf2e
 🐲 A curated list of awesome Pathfinder 2e (PF2E) resources, references and software
 
+- [PF2 Tools](https://pf2.tools/) - Essential Pathfinder Second Edition Resources
 - [PF2eTools](https://pf2etools.com/) - A suite of tools for 2nd Edition Pathfinder players and Game Masters
   - Open Source - MIT License - :octocat: [Pf2eToolsOrg/Pf2eTools](https://github.com/Pf2eToolsOrg/Pf2eTools)
 - [pf2e package for FoundryVTT](https://foundryvtt.com/packages/pf2e) - Brings the Pathfinder 2e ruleset to Foundry Virtual Tabletop
@@ -11,6 +12,7 @@
   - Open Source - GPL-3.0 License - :octocat: [wanderers-guide/wanderers-guide](https://github.com/wanderers-guide/wanderers-guide)
 - [Pathfinder 2 easy Library](https://pf2easy.com/) - Explore and search the ruleset, utility sheets, and various tools.
 - [Archives of Nethys](https://2e.aonprd.com/) - Pathfinder 2nd Edition Database and Reference Document
+- [RPGBot](https://rpgbot.net/p2/) - A resource for tabletop roleplaying games, including instructional articles, online tools, and a Podcast to help you be a better player.
 
 Many more open source and community projects on Github:
 
