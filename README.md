@@ -19,6 +19,7 @@
 - [Mimic Fight Club](https://mimic-fight-club.github.io/) – Create, balance, and save encounters. Filter creatures, create custom monsters, and apply variant rules
   - Open Source? – No License – :octocat: [mimic-fight-club/mimic-fight-club.github.io](https://github.com/mimic-fight-club/mimic-fight-club.github.io) 
 - [Eurolog PF2 Tools](https://eurolog.shroomware.com/) - Excel spreadsheet-based tools
+- [RPGCalcLab](https://rpgcalclab.com/) – A free browser toolkit for Pathfinder 2e Remaster with an encounter builder, initiative tracker, and tools for creating creatures and hazards.
 
 Many more open source and community projects on Github:
 
